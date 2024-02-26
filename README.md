@@ -13,7 +13,7 @@ This README file contains important information regarding the installation proce
 
 Installation Instructions:
 --------------------------
-1. Double-click the installer file (e.g., "UnderWorld Adventures Setup (x86).exe") to start the installation process.
+1. Double-click the installer file (e.g., "Underworld Adventures Setup/UnderWorld Adventures Setup (x86).exe") to start the installation process.
 2. Follow the on-screen instructions provided by the installer wizard to complete the installation.
 3. Once the installation is complete, you can launch the game by locating and 
 clicking on the game's shortcut icon on your desktop or by accessing it from the Start menu.
