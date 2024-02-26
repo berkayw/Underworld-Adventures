@@ -3,7 +3,7 @@
 
 Details: https://berkayw.com/portfolio-single-3.html
 
-All Project and Sources Included in Files.
+All project and sources included in this repository.
 
 If you want to test and play game: 
 
