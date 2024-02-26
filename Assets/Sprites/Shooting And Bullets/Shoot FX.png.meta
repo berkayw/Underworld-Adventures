@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: d8a289b280bc4564c9eae70f03f694cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5875615830756826230
+    second: Shoot FX_0
+  - first:
+      213: -5314071538518937483
+    second: Shoot FX_1
+  - first:
+      213: 2364246972382263396
+    second: Shoot FX_2
+  - first:
+      213: 1906410090586040074
+    second: Shoot FX_3
+  - first:
+      213: 7202527876467127535
+    second: Shoot FX_4
+  - first:
+      213: 3027484164337837738
+    second: Shoot FX_5
+  - first:
+      213: -5296869171358222817
+    second: Shoot FX_6
+  - first:
+      213: -4825510630354535542
+    second: Shoot FX_7
+  - first:
+      213: 4800989760120704707
+    second: Shoot FX_8
+  - first:
+      213: 897451008650885524
+    second: Shoot FX_9
+  - first:
+      213: -5429161299227243932
+    second: Shoot FX_10
+  - first:
+      213: 2965208578375274909
+    second: Shoot FX_11
+  - first:
+      213: 4927302747227307039
+    second: Shoot FX_12
+  - first:
+      213: -2332048327285206780
+    second: Shoot FX_13
+  - first:
+      213: -7136761573560658534
+    second: Shoot FX_14
+  - first:
+      213: -4249004510575003684
+    second: Shoot FX_15
+  - first:
+      213: 1886742160202932169
+    second: Shoot FX_16
+  - first:
+      213: -1498931329282627971
+    second: Shoot FX_17
+  - first:
+      213: 557551231981210045
+    second: Shoot FX_18
+  - first:
+      213: 3632713047057423480
+    second: Shoot FX_19
+  - first:
+      213: -797201845157739568
+    second: Shoot FX_20
+  - first:
+      213: 511294604105400267
+    second: Shoot FX_21
+  - first:
+      213: 1159033143188236697
+    second: Shoot FX_22
+  - first:
+      213: -7284068087149494052
+    second: Shoot FX_23
+  - first:
+      213: -6844402174801471331
+    second: Shoot FX_24
+  - first:
+      213: 4501709624466288202
+    second: Shoot FX_25
+  - first:
+      213: 4813787426244583211
+    second: Shoot FX_26
+  - first:
+      213: 1176604341272914366
+    second: Shoot FX_27
+  - first:
+      213: 6186240087571931438
+    second: Shoot FX_28
+  - first:
+      213: -5774094413619492608
+    second: Shoot FX_29
+  - first:
+      213: -8753433267788533016
+    second: Shoot FX_30
+  - first:
+      213: 3590080894489912683
+    second: Shoot FX_31
+  - first:
+      213: 1525714520905631069
+    second: Shoot FX_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shoot FX_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c1cecb7716a8150800000000000000
+      internalID: 5875615830756826230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 110
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b0934710a046b0800000000000000
+      internalID: -5314071538518937483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 109
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4683326581e7fc020800000000000000
+      internalID: 2364246972382263396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 109
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07e99570ede47a10800000000000000
+      internalID: 1906410090586040074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 112
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4fba961f484f360800000000000000
+      internalID: 7202527876467127535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 109
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa62a72aec8c30a20800000000000000
+      internalID: 3027484164337837738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16b97b7d8dbd76b0800000000000000
+      internalID: -5296869171358222817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 109
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bb8d9f5a7580db0800000000000000
+      internalID: -4825510630354535542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce484600ca80a240800000000000000
+      internalID: 4800989760120704707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 112
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499b3fdffe2647c00800000000000000
+      internalID: 897451008650885524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a0343309eb7a4b0800000000000000
+      internalID: -5429161299227243932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 77
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91dffedd79862920800000000000000
+      internalID: 2965208578375274909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 75
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c3a4d1ebb416440800000000000000
+      internalID: 4927302747227307039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4011f1de666e2afd0800000000000000
+      internalID: -2332048327285206780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a955249392125fc90800000000000000
+      internalID: -7136761573560658534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 20
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7f42ae8e08805c0800000000000000
+      internalID: -4249004510575003684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 19
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf16a19ffd0f2a10800000000000000
+      internalID: 1886742160202932169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 24
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76a76fc5e9b23be0800000000000000
+      internalID: -1498931329282627971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 19
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9425634e1dcb700800000000000000
+      internalID: 557551231981210045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 46
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cd8c4f44df96230800000000000000
+      internalID: 3632713047057423480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d346154525cfe4f0800000000000000
+      internalID: -797201845157739568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 52
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb645cbbb781700800000000000000
+      internalID: 511294604105400267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999a3aeb086b51010800000000000000
+      internalID: 1159033143188236697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd002b9daaac9ea90800000000000000
+      internalID: -7284068087149494052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d981c073c7cc301a0800000000000000
+      internalID: -6844402174801471331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e25486d09497e30800000000000000
+      internalID: 4501709624466288202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 53
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fdc8dd8220ec240800000000000000
+      internalID: 4813787426244583211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 40
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb921ca1a63245010800000000000000
+      internalID: 1176604341272914366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 23
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21a1036590f9d550800000000000000
+      internalID: 6186240087571931438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 50
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00984a829bb4edfa0800000000000000
+      internalID: -5774094413619492608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 30
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2b06412de858680800000000000000
+      internalID: -8753433267788533016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 18
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65ecfe6d8782d130800000000000000
+      internalID: 3590080894489912683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d554c3fe54d6c2510800000000000000
+      internalID: 1525714520905631069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 44
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7a1f32e8c7345478a6aad8de76226b
+      internalID: -1827532102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 29
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6e5707a2ed8ed40b1f922b5bac8cef
+      internalID: -7821169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 40
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a83b4e51e136a8448f74ca5c7d337d5
+      internalID: -1266827929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 19
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa593fac5c06f429967d0775886465
+      internalID: -678568945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_37
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef592ba28138add4ebc0188095490e26
+      internalID: 1627616801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_38
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70624c8a8e473c744be282ae9f431f0c
+      internalID: -1461925570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_39
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 32
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e98c4ae98e3784e80057a6efe7b1ba
+      internalID: -1925657029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 23
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1083a8610e3d7de4baedbae345b002e0
+      internalID: -155916434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_41
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 18
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70e6f9f95c81fb4fbcbf7e386403cc7
+      internalID: -658463112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2da9670ce4f264bbfdb64916a6aee7
+      internalID: -1940425839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5de677eefbf9642b350c6712e5f1bb
+      internalID: -1918874332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb02d056207c3644cb1947e211f4fa40
+      internalID: -2036190928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2be05f8eda9344c96ce0d770172e5d
+      internalID: 752611249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d152b4dc3471b47b5021d2380a88bd
+      internalID: -632436251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131324fa9cf4ee74a80f9a3eac7d42c0
+      internalID: -1149161060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_48
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 6
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca88f16f20e46824590e91448a9990f0
+      internalID: 74571967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb8743bd912404489f3172d2589c4b
+      internalID: -783196624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 93
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1138f1a4aa3ca1645874e118ec5189e0
+      internalID: 1168619512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot FX_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 110
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee400635d3290bf4e89f405d16e8beb2
+      internalID: 734239052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 289e6d86fbe385744871e0bbe0b6adbf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Shoot FX_15: -4249004510575003684
+      Shoot FX_24: -6844402174801471331
+      Shoot FX_51: 1168619512
+      Shoot FX_44: -2036190928
+      Shoot FX_21: 511294604105400267
+      Shoot FX_18: 557551231981210045
+      Shoot FX_43: -1918874332
+      Shoot FX_32: 1525714520905631069
+      Shoot FX_34: -7821169
+      Shoot FX_6: -5296869171358222817
+      Shoot FX_38: -1461925570
+      Shoot FX_16: 1886742160202932169
+      Shoot FX_40: -155916434
+      Shoot FX_10: -5429161299227243932
+      Shoot FX_5: 3027484164337837738
+      Shoot FX_50: 1654557595
+      Shoot FX_7: -4825510630354535542
+      Shoot FX_33: -1827532102
+      Shoot FX_48: 74571967
+      Shoot FX_31: 3590080894489912683
+      Shoot FX_36: -678568945
+      Shoot FX_27: 1176604341272914366
+      Shoot FX_13: -2332048327285206780
+      Shoot FX_29: -5774094413619492608
+      Shoot FX_41: -658463112
+      Shoot FX_42: -1940425839
+      Shoot FX_47: -1149161060
+      Shoot FX_4: 7202527876467127535
+      Shoot FX_1: -5314071538518937483
+      Shoot FX_49: -783196624
+      Shoot FX_25: 4501709624466288202
+      Shoot FX_35: -1266827929
+      Shoot FX_39: -1925657029
+      Shoot FX_9: 897451008650885524
+      Shoot FX_0: 5875615830756826230
+      Shoot FX_26: 4813787426244583211
+      Shoot FX_2: 2364246972382263396
+      Shoot FX_3: 1906410090586040074
+      Shoot FX_46: -632436251
+      Shoot FX_14: -7136761573560658534
+      Shoot FX_17: -1498931329282627971
+      Shoot FX_20: -797201845157739568
+      Shoot FX_37: 1627616801
+      Shoot FX_19: 3632713047057423480
+      Shoot FX_28: 6186240087571931438
+      Shoot FX_30: -8753433267788533016
+      Shoot FX_8: 4800989760120704707
+      Shoot FX_23: -7284068087149494052
+      Shoot FX_11: 2965208578375274909
+      Shoot FX_45: 752611249
+      Shoot FX_12: 4927302747227307039
+      Shoot FX_22: 1159033143188236697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
